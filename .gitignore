@@ -1,5 +1,6 @@
-# custom files
-custom/
+# custom files that are to be kept secret
+custom/*
+!custom/utils.zsh
 
 # temp files directories
 cache/
